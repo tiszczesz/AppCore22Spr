@@ -13,4 +13,22 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.0" />
   </ItemGroup>
 
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Controllers\" />
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Models\" />
+    <Folder Include="Areas\Admin\Views\" />
+    <Folder Include="Areas\Main\Data\" />
+    <Folder Include="Areas\Main\Models\" />
+    <Folder Include="Areas\Nowa\Controllers\" />
+    <Folder Include="Areas\Nowa\Data\" />
+    <Folder Include="Areas\Nowa\Models\" />
+    <Folder Include="Areas\Nowa\Views\" />
+    <Folder Include="Areas\Stara\Controllers\" />
+    <Folder Include="Areas\Stara\Data\" />
+    <Folder Include="Areas\Stara\Models\" />
+    <Folder Include="Areas\Stara\Views\" />
+  </ItemGroup>
+
 </Project>
